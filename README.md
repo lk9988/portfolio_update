@@ -21,7 +21,7 @@ This is a Portfolio of Lana Kim.
 ## Deployed Link <a name="link"></a>
 
 The project is deployed to Github page and available for view :
-</>
+<https://lk9988.github.io/portfolio_update/>
 
 ## Tech Used <a name="tech"></a>
 
